@@ -1,0 +1,36 @@
+
+.timecontainer{
+    background-color: #3f55ad;
+    width:114rpx;
+    height:114rpx;
+    justify-content:center;
+    position:relative;
+    left:calc(50% - 57rpx);
+    border-radius:50%;
+    border-bottom:10rpx solid #3f55ad;
+
+
+}
+.bgCanvas{
+    width:114rpx;
+    height:114rpx;
+    margin: 0 auto;
+    /* padding: 5rpx; */
+    /* position: absolute; */
+    
+}
+.stepText{
+    font-weight:bold;
+    font-size:50rpx;
+    color:#fff;
+    position:absolute;
+    z-index:3;
+    top:calc(57rpx - 27.5rpx);
+    width:55rpx;
+    height:55rpx;
+    line-height: 55rpx;
+    /* left:30rpx; */
+    left: calc(57rpx - 27.5rpx);
+    text-align:center;
+
+}
